@@ -6,4 +6,5 @@ Arkusz kalkulacyjny: Excel
 
 Bazy danych: MS Access
 
+
 Autor: Maciej Sepeta
